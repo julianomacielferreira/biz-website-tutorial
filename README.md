@@ -46,13 +46,13 @@ $ npm install
 $ npm run gulp
 ```
 
-**3. Start the webpack-dev-server:**
+**4. Start the webpack-dev-server:**
 
 ```bash
 $ npm run start
 ```
 
-**4. Access it your browser [http://localhost:9000/](http://localhost:9000/).**
+**5. Access it your browser [http://localhost:9000/](http://localhost:9000/).**
 
 # License
 
