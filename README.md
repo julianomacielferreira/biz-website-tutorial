@@ -62,7 +62,7 @@ $ npm run gulp
 $ npm run start
 ```
 
-**5. Access it on your browser [http://localhost:8080/](http://localhost:8080/).**
+**5. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
 
 # License
 
