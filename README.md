@@ -14,7 +14,7 @@ I coded this website only for the purpose of learning. **All the credits go to T
 
 ## How to Install and Run
 
-**1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager), [gulp.js](https://gulpjs.com/) and [webpack](https://webpack.js.org/):**
+**1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager), [gulp.js](https://gulpjs.com/) and [http-server](https://www.npmjs.com/package/http-server):**
 
 ```bash
 $ node -v
@@ -28,13 +28,23 @@ $ npm -v
 $ gulp -v
 ```
 
-**Obs.:** If you don't have [gulp.js](https://gulpjs.com/), install gulp-cli with the following command:
+```bash
+$ http-server -h
+```
+
+- If you don't have [gulp.js](https://gulpjs.com/), install gulp-cli globally with the following command:
 
 ```bash
 $ sudo npm install gulp-cli -g
 ```
 
-**2. In the project root directory install all the dependencies and libs:**
+- If you don't have [http-server](https://www.npmjs.com/package/http-server), install globally with the following command:
+
+```bash
+$ sudo npm install http-server -g
+```
+
+**2. In the _project root directory_ install all the dependencies and libs:**
 
 ```bash
 $ npm install
@@ -52,7 +62,7 @@ $ npm run gulp
 $ npm run start
 ```
 
-**5. Access it your browser [http://localhost:9000/](http://localhost:9000/).**
+**5. Access it your browser [http://localhost:8080/](http://localhost:8080/).**
 
 # License
 
