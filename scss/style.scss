@@ -23,3 +23,12 @@ body {
   text-decoration: none;
   border: 0;
 }
+
+img {
+  max-width: 100%;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 20px;
+}
