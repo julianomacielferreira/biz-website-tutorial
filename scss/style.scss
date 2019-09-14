@@ -1,9 +1,7 @@
 // Variables
-$primary: #ddd;
-$dark: #333;
-$light: #fff;
-$shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+@import "./variables";
 
+// Core
 html {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -31,4 +29,32 @@ img {
 .wrapper {
   display: grid;
   grid-gap: 20px;
+}
+
+// Navigation
+.main-nav {
+  ul {
+    display: grid;
+    grid-gap: 20px;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  a {
+    background-color: $primary;
+    display: block;
+    text-decoration: none;
+    padding: 0.8rem;
+    text-align: center;
+    color: $dark;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    box-shadow: $shadow;
+
+    &:hover {
+      background-color: $dark;
+      color: $primary;
+    }
+  }
 }
