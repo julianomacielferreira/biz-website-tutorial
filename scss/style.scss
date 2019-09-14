@@ -188,3 +188,9 @@ footer {
     }
   }
 }
+
+@media (max-width: $layout-breakpoint-very-small) {
+  .top-container {
+    grid-template-areas: "showcase" "top-box-a" "top-box-b";
+  }
+}
