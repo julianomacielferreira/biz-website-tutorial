@@ -79,9 +79,9 @@ agreement](https://github.com/julianomacielferreira/biz-website-tutorial/blob/ma
 
 # Screenshots
 
-![](assets/screenshots/screenshot1.png)
-![](assets/screenshots/screenshot2.png)
-![](assets/screenshots/screenshot3.png)
-![](assets/screenshots/screenshot4.png)
-![](assets/screenshots/screenshot5.png)
-![](assets/screenshots/screenshot6.png)
+![](assets/screenshots/1.png)
+![](assets/screenshots/2.png)
+![](assets/screenshots/3.png)
+![](assets/screenshots/4.png)
+![](assets/screenshots/5.png)
+![](assets/screenshots/6.png)
