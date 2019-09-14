@@ -1,16 +1,24 @@
 # Biz Website Tutorial
 
-This is a website based on the tutorial ["Build a Responsive Grid CSS Website Layout From Scratch"](https://www.youtube.com/watch?v=moBhzSC455o) from Traversy Media &trade;.
+This is a website template based on the tutorial ["Build a Responsive Grid CSS Website Layout From Scratch"](https://www.youtube.com/watch?v=moBhzSC455o) from Traversy Media &trade;.
 
 The configurations of the file [gulpfile.js](https://github.com/julianomacielferreira/biz-website-tutorial/blob/master/gulpfile.js) are based on the project ["Front-end Boilerplate using Sass and Gulp 4"](https://github.com/thecodercoder/frontend-boilerplate) from [thecodercoder](https://github.com/thecodercoder).
 
+The images were downloaded from Pexels [https://www.pexels.com/](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
+
+The icons are from the Font Awesome [https://fontawesome.com/](https://fontawesome.com/) library.
+
 # Disclaimer
 
-I coded this website only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
+I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
 
 - Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 - Traversy Media&trade; site: [https://www.traversymedia.com/](https://www.traversymedia.com/)
+
+- Pexels site: [https://www.pexels.com/](https://www.pexels.com/) 
+
+- Font Awesome [https://fontawesome.com/](https://fontawesome.com/)
 
 ## How to Install and Run
 
