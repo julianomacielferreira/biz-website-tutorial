@@ -76,3 +76,12 @@ $ npm run start
 
 Please see the [license
 agreement](https://github.com/julianomacielferreira/biz-website-tutorial/blob/master/LICENSE).
+
+# Screenshots
+
+![](assets/screenshots/screenshot1.png)
+![](assets/screenshots/screenshot2.png)
+![](assets/screenshots/screenshot3.png)
+![](assets/screenshots/screenshot4.png)
+![](assets/screenshots/screenshot5.png)
+![](assets/screenshots/screenshot6.png)
