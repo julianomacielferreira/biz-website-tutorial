@@ -1,0 +1,18 @@
+// Top Container
+.top-container {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-areas: "showcase showcase top-box-a" "showcase showcase top-box-b";
+}
+
+@media (max-width: $layout-breakpoint-small) {
+  .top-container {
+    grid-template-areas: "showcase showcase" "top-box-a top-box-b";
+  }
+}
+
+@media (max-width: $layout-breakpoint-very-small) {
+  .top-container {
+    grid-template-areas: "showcase" "top-box-a" "top-box-b";
+  }
+}

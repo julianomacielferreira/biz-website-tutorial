@@ -1,0 +1,34 @@
+// Showcase
+.showcase {
+  grid-area: showcase;
+  min-height: 400px;
+  background: url("../assets/img/apple-desk-imac-39284.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  box-shadow: $shadow;
+
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    color: $light;
+  }
+
+  p {
+    font-size: 1.3rem;
+    margin-top: 0;
+    color: $light;
+  }
+}
+
+@media (max-width: $layout-breakpoint-small) {
+  .showcase {
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+}

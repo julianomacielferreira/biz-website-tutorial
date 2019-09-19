@@ -2,8 +2,6 @@
 
 This is a website template based on the tutorial ["Build a Responsive Grid CSS Website Layout From Scratch"](https://www.youtube.com/watch?v=moBhzSC455o) from Traversy Media&trade;.
 
-The configurations of the file [gulpfile.js](https://github.com/julianomacielferreira/biz-website-tutorial/blob/master/gulpfile.js) are based on the project ["Front-end Boilerplate using Sass and Gulp 4"](https://github.com/thecodercoder/frontend-boilerplate) from [thecodercoder](https://github.com/thecodercoder).
-
 The images were downloaded from Pexels&trade; [https://www.pexels.com/](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
 
 The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fontawesome.com/) library.
@@ -22,7 +20,7 @@ I coded this website template only for the purpose of learning. **All the credit
 
 ## How to Install and Run
 
-**1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager), [gulp.js](https://gulpjs.com/) and [http-server](https://www.npmjs.com/package/http-server):**
+**1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
 
 ```bash
 $ node -v
@@ -32,45 +30,19 @@ $ node -v
 $ npm -v
 ```
 
-```bash
-$ gulp -v
-```
-
-```bash
-$ http-server -h
-```
-
-- If you don't have [gulp.js](https://gulpjs.com/), install gulp-cli globally with the following command:
-
-```bash
-$ sudo npm install gulp-cli -g
-```
-
-- If you don't have [http-server](https://www.npmjs.com/package/http-server), install globally with the following command:
-
-```bash
-$ sudo npm install http-server -g
-```
-
 **2. In the _project root directory_ install all the dependencies and libs:**
 
 ```bash
 $ npm install
 ```
 
-**3. Start the gulp tasks in watch mode:**
-
-```bash
-$ npm run gulp
-```
-
-**4. Start the webpack-dev-server:**
+**3. Start the webpack-dev-server:**
 
 ```bash
 $ npm run start
 ```
 
-**5. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
+**4. Access [http://localhost:8080/](http://localhost:8080/) on your browser.**
 
 # License
 
