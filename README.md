@@ -10,13 +10,19 @@ The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fo
 
 I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
 
+# References
+
 - Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
-- Traversy Media&trade; site: [https://www.traversymedia.com/](https://www.traversymedia.com/)
+- Traversy Media&trade;: [https://www.traversymedia.com/](https://www.traversymedia.com/)
 
-- Pexels&trade; site: [https://www.pexels.com/](https://www.pexels.com/) 
+- Pexels&trade;: [https://www.pexels.com/](https://www.pexels.com/) 
 
-- Font Awesome&trade; site: [https://fontawesome.com/](https://fontawesome.com/)
+- Font Awesome&trade;: [https://fontawesome.com/](https://fontawesome.com/)
+
+- Sass: [https://sass-lang.com/](https://sass-lang.com/)
+
+- Webpack: [https://webpack.js.org/](https://webpack.js.org/)
 
 ## How to Install and Run
 
