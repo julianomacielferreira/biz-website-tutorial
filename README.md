@@ -6,20 +6,6 @@ The images were downloaded from Pexels&trade; [https://www.pexels.com/](https://
 
 The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fontawesome.com/) library.
 
-# Disclaimer
-
-I coded this website template only for the purpose of learning and enhancing my skillset. 
-
-**Access [Traversy Media&trade;](https://www.traversymedia.com/) to learn too.**
-
-# Become a Patron of Traversy Media
-
-Brad Traversy spends most of his time making free educational videos on YouTube to share with the world. 
-
-Join his Patreon to show your support and gratitude. Even $1 per month means the world.
-
-[https://www.patreon.com/traversymedia](https://www.patreon.com/traversymedia)
-
 ## Install Dependencies
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
@@ -56,10 +42,28 @@ The files will be created in the folder **/dist**.
 
 **2. And then access [http://localhost:8080/](http://localhost:8080/) on your browser (it's setup to open automatically).**
 
-# License
+# Screenshots
 
-Please see the [license
-agreement](https://github.com/julianomacielferreira/biz-website-tutorial/blob/master/LICENSE).
+![](assets/screenshots/1.png)
+![](assets/screenshots/2.png)
+![](assets/screenshots/3.png)
+![](assets/screenshots/4.png)
+![](assets/screenshots/5.png)
+![](assets/screenshots/6.png)
+
+# Disclaimer
+
+I coded this website template only for the purpose of learning and enhancing my skillset. 
+
+**Access [Traversy Media&trade;](https://www.traversymedia.com/) to learn too.**
+
+# Become a Patron of Traversy Media
+
+Brad Traversy spends most of his time making free educational videos on YouTube to share with the world. 
+
+Join his Patreon to show your support and gratitude. Even $1 per month means the world.
+
+[https://www.patreon.com/traversymedia](https://www.patreon.com/traversymedia)
 
 # References
 
@@ -75,11 +79,6 @@ agreement](https://github.com/julianomacielferreira/biz-website-tutorial/blob/ma
 
 - Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
 
-# Screenshots
+# License
 
-![](assets/screenshots/1.png)
-![](assets/screenshots/2.png)
-![](assets/screenshots/3.png)
-![](assets/screenshots/4.png)
-![](assets/screenshots/5.png)
-![](assets/screenshots/6.png)
+Please see the [license agreement](https://github.com/julianomacielferreira/biz-website-tutorial/blob/master/LICENSE).
